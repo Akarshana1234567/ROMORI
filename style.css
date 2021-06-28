@@ -1,0 +1,31 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid gold;
+}
+
+#start,#status{
+    font-size: 22px;
+}
+h4{
+    background-color: lightskyblue;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline;
+    width: 45%;
+}
+canvas{
+    box-shadow: 5px 5px 5px firebrick;
+    border-radius: dashed 10px aqua;
+}
